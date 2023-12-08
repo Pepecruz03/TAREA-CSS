@@ -5,4 +5,11 @@
 
 nav {
     display: flex;
+    justify-content: space-between;
+}
+
+nav .menu {
+    display: flex;
+    gap: 15px;
+    padding-top: 30px;
 }
